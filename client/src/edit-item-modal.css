@@ -1,0 +1,23 @@
+.edit-modal__container {
+  background-color: var(--selected-background-color);
+  padding: 30px;
+  border-radius: 10px;
+}
+
+.edit-modal__header {
+    display: block;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 27px;
+  color: #09445d;
+}
+
+.edit-modal__special-button {
+  margin-top: auto;
+}
+
+.edit-modal__comment-field{
+    resize: none;
+    border: none;
+    border-radius: 10px;
+}

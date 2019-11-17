@@ -51,10 +51,15 @@ body{
   background: var(--button-basic-gradient);
 }
 
-.btn.transparent{
+.btn-transparent{
   border: 1px solid var(--button-basic);
   color: var(--button-basic);
   background-color: transparent;
+}
+
+.btn-special{
+  background-color: var(--button-special);
+  color: var(--text-done);
 }
 
 .item-input-form .btn {

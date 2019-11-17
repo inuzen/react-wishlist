@@ -5,8 +5,10 @@ import './frow.css';
 import './App.css';
 import './dropdown.css';
 import './range-style.css';
+import './edit-item-modal.css';
 import Items from './components/items/Items';
 import Header from './components/layout/Header';
+
 const App = () => {
 
   return (
